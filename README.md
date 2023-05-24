@@ -5,11 +5,11 @@ This codebase is used to predict fire damage in sonoma county based on Naip Imag
  - The helpfer functions file contain all of the models and helper functions used to generate the models
 and display the results
  - The two PDF's are tutorials on how to generate the data chips in ARCgis and how to upload your predicitions back into ARCgis
- - The google drive link contains two datasets that we can use
-  - This first link is to the raw dataset before being split and exported as chips: https://drive.google.com/file/d/1JbsVUnGHv28yEldEwbH83Q4JJQ8qz7Sk/view?usp=share_link
-  - This second link is the Naip imagery used to create our chips in comboination with the first link:
+ - The google drive link contains two datasets that we can use:
+   - This first link is to the raw dataset before being split and exported as chips: https://drive.google.com/file/d/1JbsVUnGHv28yEldEwbH83Q4JJQ8qz7Sk/view?usp=share_link
+   - This second link is the Naip imagery used to create our chips in comboination with the first link:
   https://drive.google.com/file/d/1XH2bZz0rY52VWy2C5h-NJ-MQ31W7tLdQ/view?usp=share_link
-  -  the the dataset after it has already been seperated and transformed into chips:
+   -  the the dataset after it has already been seperated and transformed into chips:
 
 The steps to set up this codebase are as follows:
 
