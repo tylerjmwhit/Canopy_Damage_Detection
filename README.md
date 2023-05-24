@@ -1,7 +1,7 @@
 # Canopy_Damage_Detection
 This codebase is used to predict fire damage in sonoma county based on Naip Imagery
 
- - The segmented_dataset_classification contains all the code to run the segmentation side of the project
+ - The segmented_dataset_classification contains all the code to train the models and use them to predict labels
  - The helpfer functions file contain all of the models and helper functions used to generate the models
 and display the results
  - The two PDF's are tutorials on how to generate the data chips in ARCgis and how to upload your predicitions back into ARCgis
